@@ -1,0 +1,7 @@
+# robots.txt for dristyshrestha.com.np
+# Replace the domain below with your real domain once deployed.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.dristyshrestha.com.np/sitemap.xml
